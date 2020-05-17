@@ -123,7 +123,7 @@ mouseClicked = function() {
 
     fill (txtColor);
     textSize(40);
-    text(dtxt[d1] + "Donald Trump " + text1[t1] + "something that was so " +            text2[t2] + text3[t3] + ctxt1[c1] + text4[t4] + ctxt2[c2]+ text5[t5] +                 text6[t6], 15,100,570,450);
+    text(dtxt[d1] + "Donald Trump " + text1[t1] + "something that was so " +            text2[t2] + text3[t3] + ctxt1[c1] + text4[t4] + ctxt2[c2]+ text5[t5] +                 text6[t6], 15,20,570,450);
 
     prnMsg = 0;
 
