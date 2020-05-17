@@ -1,5 +1,5 @@
 <html> 
- <head>
+<head>
     <title>Trump Headlines for Laughs</title> 
 </head>
  <body>
@@ -9,9 +9,6 @@
     </p>
  </body>
  
- <!-- Run all the JavaScript stuff -->
- <!-- Include the processing.js library -->
- <!-- See https://khanacademy.zendesk.com/hc/en-us/articles/202260404-What-parts-of-ProcessingJS-does-Khan-Academy-support- for differences -->
  <script src="https://cdn.jsdelivr.net/processing.js/1.4.8/processing.min.js"></script> 
  
  <script>
