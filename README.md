@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- This is based on DillingerLee's great template here:
 https://github.com/Team-Code/KA_Offline -->
 <html> 
